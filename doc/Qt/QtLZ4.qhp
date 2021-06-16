@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+    <namespace>com.neutrino.qtlz4</namespace>
+    <virtualFolder>QtLZ4</virtualFolder>
+    <customFilter name="Qt LZ4 1.6.0">
+        <filterAttribute>QtLZ4</filterAttribute>
+        <filterAttribute>1.6.0</filterAttribute>
+    </customFilter>
+    <filterSection>
+        <filterAttribute>QtLZ4</filterAttribute>
+        <filterAttribute>1.6.0</filterAttribute>
+        <toc>
+            <section title="Qt LZ4 Manual" ref="index.html">
+                <section title="English" ref="en/index.html"/>
+                <section title="Traditional Chinese" ref="tw/index.html"/>
+                <section title="Simplified Chinese" ref="cn/index.html"/>
+            </section>
+        </toc>
+        <keywords>
+            <keyword name="LZ4" id="CIOS::LZ4" ref="index.html"/>
+        </keywords>
+        <files>
+            <file>*.css</file>
+            <file>*.html</file>
+            <file>images/*</file>
+            <file>en/*</file>
+            <file>cn/*</file>
+            <file>tw/*</file>
+        </files>
+    </filterSection>
+</QtHelpProject>
