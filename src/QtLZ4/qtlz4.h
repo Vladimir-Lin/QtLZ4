@@ -25,9 +25,6 @@
 #define QT_LZ4_H
 
 #include <QtCore>
-#ifndef QT_STATIC
-#include <QtScript>
-#endif
 
 QT_BEGIN_NAMESPACE
 
