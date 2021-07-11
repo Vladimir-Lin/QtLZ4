@@ -21,7 +21,7 @@
  *
  ****************************************************************************/
 
-#include <qtlz4.h>
+#include "qtlz4.h"
 #include "lz4.h"
 
 QT_BEGIN_NAMESPACE
