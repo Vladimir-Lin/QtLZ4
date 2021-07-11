@@ -1,4 +1,4 @@
-set MODNAME=QtUUID
+set MODNAME=QtLZ4
 nmake clean
 del /s /q .qmake.cache
 del /s /q .qmake.stash
